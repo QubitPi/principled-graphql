@@ -3,6 +3,7 @@ module.exports = {
     title: 'Principled GraphQL',
     description: 'Best practices for implementing and scaling a graph'
   },
+  pathPrefix: `/principled-graphql`,
   plugins: [
     {
       resolve: 'gatsby-theme-apollo-core',
